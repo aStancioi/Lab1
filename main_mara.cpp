@@ -10,6 +10,7 @@ int x;
 int v[10] = { 1, 2, 5, 3, 4, 5, 6, 3, 2, 9 };
 
 int main() {
+	//ubung 1
 	cout << "\nPana la? ";
 	cin >> x;
 	cout << "\nDie Primzahlen sind: ";
