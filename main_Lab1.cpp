@@ -10,7 +10,7 @@ int x;
 int v[10] = { 1, 2, 5, 3, 4, 5, 6, 3, 2, 9 };
 
 int main() {
-	//ubung 1
+	//ubung 1 - Mara
 	cout << "\nPana la? ";
 	cin >> x;
 	cout << "\nDie Primzahlen sind: ";
@@ -24,8 +24,10 @@ int main() {
 	}
 	cout << "\nCea mai lunga secventa este: " << x;
 	
-	//ubung 4
+	//ubung 4 - Andrei
 	assert(prime(1) = 0);
 	assert(pow(9) = 81);
 	assert(teilfolge({ 1,5,3,4,2,6,9 }) = { 5,3,4,2 });
+	
+	return 0;
 }
