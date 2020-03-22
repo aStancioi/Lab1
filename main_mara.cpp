@@ -19,4 +19,9 @@ int main() {
 		cout << " " << v[i];
 	}
 	cout << "\nCea mai lunga secventa este: " << x;
+	
+	//ubung 4
+	assert(prime(1) = 0);
+	assert(pow(9) = 81);
+	assert(teilfolge({ 1,5,3,4,2,6,9 }) = { 5,3,4,2 });
 }
