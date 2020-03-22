@@ -1,5 +1,8 @@
 #include "Header_mara.h"
 #include <iostream>
+#include "Vector.cpp"
+#include <assert.h>
+#include "Vector.h"
 
 using namespace std;
 
